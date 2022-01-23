@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins|Crimson+Text&display=swap');
+html {
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.4rem;
+}
+
+h1 {
+    font-family: 'Crimson Text', serif;
+    font-size: 6.4rem;
+    color: #1fab89;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: 'Crimson Text', serif;
+    font-size: 4.0rem;
+    color: #1fab89;
+    text-align: center;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Crimson Text', serif;
+    font-size: 3.2rem;
+    color: #1fab89;
+    text-align: center;
+    font-weight: normal;
+}
+
+p {
+    line-height: 2;
+    color: #40514E;
+    text-align: center;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+    clear: both;
+}
+
+.top-container {
+    background-color: #EAF9F5;
+    position: relative;
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+
+#profile-image {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.intro {
+    width: 65%;
+    margin: auto;
+}
+
+.middle-container {
+    padding: 10px 0;
+    text-align: center;
+}
+
+.interests-grid {
+    width: 75%;
+    margin: 50px auto 75px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+.mar-circular {
+    border-radius: 20%;
+}
+
+.sci-fi {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    max-width: 100%;
+}
+
+table {
+    text-align: center;
+    color: #40514E;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 50px 10px;
+    max-width: 100%;
+}
+
+th {
+    color: #1fab89;
+    font-weight: normal;
+}
+
+ul {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.video-games {
+    text-align: center;
+}
+
+.game-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    max-width: 100%;
+}
+
+.cultures-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    max-width: 100%;
+}
+
+.coding-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    max-width: 90%;
+}
+
+.learning-table {
+    border-spacing: 40px 40px;
+}
+
+.bottom-container {
+    background-color: #EAF9F5;
+    padding: 10px 0 10px;
+}
+
+.follow-title {
+    color: #1fab89;
+}
+
+.footer-link {
+    color: #62d2a2;
+    margin: 10px 20px;
+}
+
+.footer-link:hover {
+    color: #1fab89;
+}
+
+.copyright {
+    color: #1fab89;
+    font-size: 1.2rem;
+    padding-top: 20px;
+}
